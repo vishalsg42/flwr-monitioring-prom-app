@@ -1,0 +1,49 @@
+{
+    "os": "macOS-14.5-arm64-arm-64bit",
+    "python": "3.11.9",
+    "heartbeatAt": "2024-08-23T06:31:52.166564",
+    "startedAt": "2024-08-23T06:31:50.066648",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/Users/vishalgupta/Documents/vishal/project/metaborong/flower-ai/flwr-monitioring-wandb-sample-app/server.py",
+    "codePathLocal": "server.py",
+    "codePath": "flwr-monitioring-wandb-sample-app/server.py",
+    "git": {
+        "remote": "git@github.com:vishalsg42/flower-ai-pytorch.git",
+        "commit": "b335a60065366a124c16d7ad038701c618bd62eb"
+    },
+    "email": "vishalsg42@gmail.com",
+    "root": "/Users/vishalgupta/Documents/vishal/project/metaborong/flower-ai",
+    "host": "Vishal-MacBook-Pro.local",
+    "username": "vishalgupta",
+    "executable": "/Users/vishalgupta/Documents/vishal/project/metaborong/flower-ai/.venv/bin/python",
+    "cpu_count": 12,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 3504,
+        "min": 702,
+        "max": 3504
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3504,
+            "min": 702,
+            "max": 3504
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 926.3517189025879,
+            "used": 12.422431945800781
+        }
+    },
+    "gpuapple": {
+        "type": "Apple M2 Pro",
+        "vendor": "sppci_vendor_Apple"
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
